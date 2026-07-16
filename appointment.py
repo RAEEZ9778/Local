@@ -10,3 +10,8 @@ def reg_patient():
     print("Contact Number: ")
     contact = input()
     print("Patient registered successfully!")
+
+def login():
+    username = input("Enter your username: ")
+    password = input("Enter your password: ")
+    print("Login Successfull")
