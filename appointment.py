@@ -1,4 +1,4 @@
-print("Hospital Appointment Booking System!")\
+print("Hospital Appointment Booking System - Main")
 
 def reg_patient():
     print("Registering a new patient...")
